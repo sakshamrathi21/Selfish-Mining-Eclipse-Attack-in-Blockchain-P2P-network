@@ -1,0 +1,63 @@
+Fast High CPU :-
+Peer 5 : 0.796875
+Peer 8 : 0.923077
+Peer 13 : 0.917808
+Peer 14 : 0.929577
+Peer 16 : 0.87931
+Peer 19 : 0.901408
+Peer 21 : 0.871795
+Peer 24 : 0.940299
+Peer 38 : 0.877193
+Peer 39 : 0.863014
+Peer 41 : 0.952941
+Peer 42 : 0.852941
+Peer 45 : 0.931034
+Peer 46 : 0.851852
+------------------------
+Fast Low CPU :-
+Peer 6 : 0.833333
+Peer 7 : 1
+Peer 9 : 1
+Peer 10 : 1
+Peer 11 : 1
+Peer 12 : 0.818182
+Peer 32 : 0.833333
+Peer 36 : 1
+Peer 44 : 0.875
+Peer 47 : 0.7
+Peer 48 : 0.5
+------------------------
+Slow High CPU :-
+Peer 0 : 0.909091
+Peer 15 : 0.933333
+Peer 18 : 0.971014
+Peer 20 : 0.8125
+Peer 23 : 0.864865
+Peer 27 : 0.903226
+Peer 29 : 0.956522
+Peer 30 : 0.85
+Peer 33 : 0.87037
+Peer 35 : 0.85
+Peer 37 : 0.861111
+------------------------
+Slow Low CPU :-
+Peer 1 : 0.6
+Peer 2 : 1
+Peer 3 : 1
+Peer 4 : 1
+Peer 17 : 1
+Peer 22 : 0.625
+Peer 25 : 1
+Peer 26 : 1
+Peer 28 : 0.888889
+Peer 31 : 1
+Peer 34 : 0.846154
+Peer 40 : 0.818182
+Peer 43 : 1
+Peer 49 : 0.909091
+------------------------
+Average Ratios :-
+Fast High CPU : 0.89208
+Fast Low CPU : 0.869077
+Slow High CPU : 0.889276
+Slow Low CPU : 0.906237

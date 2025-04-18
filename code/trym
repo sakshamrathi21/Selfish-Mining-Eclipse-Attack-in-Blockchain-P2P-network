@@ -1,0 +1,240 @@
+Running simulation with num_peer=100, percent_malicious=5, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.0124613, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.333333}
+Running simulation with num_peer=100, percent_malicious=5, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.01875, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.15}
+Running simulation with num_peer=100, percent_malicious=10, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.1026725, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.6576925}
+Running simulation with num_peer=100, percent_malicious=10, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.048821550000000005, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.4375}
+Running simulation with num_peer=100, percent_malicious=15, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.10129365, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.49431800000000004}
+Running simulation with num_peer=100, percent_malicious=15, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.17827199999999999, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.6942355}
+Running simulation with num_peer=100, percent_malicious=20, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.07564105, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.34134600000000004}
+Running simulation with num_peer=100, percent_malicious=20, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.19883800000000001, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.7303029999999999}
+Running simulation with num_peer=100, percent_malicious=25, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.2170235, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.614815}
+Running simulation with num_peer=100, percent_malicious=25, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.2691175, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.78}
+Running simulation with num_peer=100, percent_malicious=30, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.35213700000000003, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8412299999999999}
+Running simulation with num_peer=100, percent_malicious=30, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.3543155, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.794737}
+Running simulation with num_peer=100, percent_malicious=35, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.4041665, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8753635}
+Running simulation with num_peer=100, percent_malicious=35, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.431836, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.9126125}
+Running simulation with num_peer=100, percent_malicious=40, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.5200805, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8795925}
+Running simulation with num_peer=100, percent_malicious=40, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.5151355, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8696174999999999}
+Running simulation with num_peer=100, percent_malicious=45, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.5767975, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.890566}
+Running simulation with num_peer=100, percent_malicious=45, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.5890195, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8517855000000001}
+Running simulation with num_peer=100, percent_malicious=50, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.824405, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.9651164999999999}
+Running simulation with num_peer=100, percent_malicious=50, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.8305775, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.9910715}
+Running simulation with num_peer=100, percent_malicious=55, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.99, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=55, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.8216665, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.988095}
+Running simulation with num_peer=100, percent_malicious=60, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.954044, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=60, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.983329, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=65, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.963768, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.9848485}
+Running simulation with num_peer=100, percent_malicious=65, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=70, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9929574999999999, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=70, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=75, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9930555, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=75, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=80, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=80, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=85, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=85, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=90, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=90, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.987198, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=95, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=95, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9954545, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=100, Ttx=10, Tk=100, get_timeout=10, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=100, Ttx=10, Tk=100, get_timeout=20, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=5, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.018315, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.35}
+Running simulation with num_peer=100, percent_malicious=5, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.0204082, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.642857}
+Running simulation with num_peer=100, percent_malicious=10, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.10305405, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.5693779999999999}
+Running simulation with num_peer=100, percent_malicious=10, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.05098605, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.5277780000000001}
+Running simulation with num_peer=100, percent_malicious=15, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.16636499999999999, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8333335}
+Running simulation with num_peer=100, percent_malicious=15, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.06921985, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.419048}
+Running simulation with num_peer=100, percent_malicious=20, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.1292485, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.547619}
+Running simulation with num_peer=100, percent_malicious=20, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.175654, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.675439}
+Running simulation with num_peer=100, percent_malicious=25, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.20362, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.707094}
+Running simulation with num_peer=100, percent_malicious=25, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.262626, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.703704}
+Running simulation with num_peer=100, percent_malicious=30, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.333804, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8245075}
+Running simulation with num_peer=100, percent_malicious=30, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.35975599999999996, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8522730000000001}
+Running simulation with num_peer=100, percent_malicious=35, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.394428, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.7313974999999999}
+Running simulation with num_peer=100, percent_malicious=35, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.5830885, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.9307795}
+Running simulation with num_peer=100, percent_malicious=40, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.442295, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8565365}
+Running simulation with num_peer=100, percent_malicious=40, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.4075885, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.8583335000000001}
+Running simulation with num_peer=100, percent_malicious=45, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.6300479999999999, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.923913}
+Running simulation with num_peer=100, percent_malicious=45, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.7844519999999999, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.960784}
+Running simulation with num_peer=100, percent_malicious=50, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.7604725, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.9910715}
+Running simulation with num_peer=100, percent_malicious=50, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9814625, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=55, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.939201, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=55, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.962264, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.99}
+Running simulation with num_peer=100, percent_malicious=60, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9848485, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=60, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9836065, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=65, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=65, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9797294999999999, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=70, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.994186, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=70, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=75, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.992857, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=75, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9817075, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.99375}
+Running simulation with num_peer=100, percent_malicious=80, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.994382, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=80, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.9879519999999999, 'Malicious Blocks in Chain / Total Malicious Blocks': 0.9939025}
+Running simulation with num_peer=100, percent_malicious=85, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 0.994318, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=85, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=90, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=90, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=95, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=95, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=100, Ttx=10, Tk=100, get_timeout=200, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=100, Ttx=10, Tk=100, get_timeout=400, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': 1.0, 'Malicious Blocks in Chain / Total Malicious Blocks': 1.0}
+Running simulation with num_peer=100, percent_malicious=5, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.028650049999999996), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.5)}
+Running simulation with num_peer=100, percent_malicious=5, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.0224772), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.4)}
+Running simulation with num_peer=100, percent_malicious=10, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.08909455), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.5164835)}
+Running simulation with num_peer=100, percent_malicious=10, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.02873565), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.25)}
+Running simulation with num_peer=100, percent_malicious=15, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.1258965), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.6378675)}
+Running simulation with num_peer=100, percent_malicious=15, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.0909391), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.558442)}
+Running simulation with num_peer=100, percent_malicious=20, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.08102825), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.4583335)}
+Running simulation with num_peer=100, percent_malicious=20, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.148148), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.6512605)}
+Running simulation with num_peer=100, percent_malicious=25, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.1850135), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.7035295)}
+Running simulation with num_peer=100, percent_malicious=25, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.2492575), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.7365595)}
+Running simulation with num_peer=100, percent_malicious=30, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.2897295), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.6547620000000001)}
+Running simulation with num_peer=100, percent_malicious=30, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.3030425), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.8680555)}
+Running simulation with num_peer=100, percent_malicious=35, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.346106), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.8125)}
+Running simulation with num_peer=100, percent_malicious=35, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.379159), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.8402635)}
+Running simulation with num_peer=100, percent_malicious=40, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.610768), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.884795)}
+Running simulation with num_peer=100, percent_malicious=40, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.533211), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.9160714999999999)}
+Running simulation with num_peer=100, percent_malicious=45, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.5314325), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.8913565)}
+Running simulation with num_peer=100, percent_malicious=45, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.5601255), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.9529215)}
+Running simulation with num_peer=100, percent_malicious=50, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.8441700000000001), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.9795834999999999)}
+Running simulation with num_peer=100, percent_malicious=50, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.7815785), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.9711540000000001)}
+Running simulation with num_peer=100, percent_malicious=55, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.8671325000000001), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.9725545)}
+Running simulation with num_peer=100, percent_malicious=55, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.8018565), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.9480284999999999)}
+Running simulation with num_peer=100, percent_malicious=60, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.9689425), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=60, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.898148), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.977778)}
+Running simulation with num_peer=100, percent_malicious=65, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.9707589999999999), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(0.9926470000000001)}
+Running simulation with num_peer=100, percent_malicious=65, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.9755210000000001), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=70, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.919459), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=70, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=75, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=75, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=80, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=80, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(0.9935065000000001), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=85, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=85, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=90, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=90, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=95, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=95, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=100, Ttx=10, Tk=100, get_timeout=50, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
+Running simulation with num_peer=100, percent_malicious=100, Ttx=10, Tk=100, get_timeout=100, total_time=10000 --no-eclipse
+{'Malicious Blocks in Chain / Total Blocks in Longest Chain': np.float64(1.0), 'Malicious Blocks in Chain / Total Malicious Blocks': np.float64(1.0)}
